@@ -25,7 +25,11 @@ clone this directory into src directory of an isolated catkin workspace (e.g. ca
 >* `source install_isolated/setup.bash`
 
 
-## 3. How to run?
+## 4. How to run?
 
 >* `roslaunch cartographer_turtlebot one_command_bringup.launch`
 >* `roslaunch cartographer_turtlebot turtlebot.launch`
+
+## 5. References
+
+[official cartographer](https://github.com/cartographer-project/cartographer_turtlebot)
