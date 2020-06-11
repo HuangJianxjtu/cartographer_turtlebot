@@ -30,6 +30,10 @@ clone this directory into src directory of an isolated catkin workspace (e.g. ca
 >* `roslaunch cartographer_turtlebot one_command_bringup.launch`
 >* `roslaunch cartographer_turtlebot turtlebot.launch`
 
-## 5. References
+## 5. How to save the map?
+
+[link](https://www.ncnynl.com/archives/201904/2915.html)
+
+## 6. References
 
 [official cartographer](https://github.com/cartographer-project/cartographer_turtlebot)
